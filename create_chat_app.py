@@ -4,8 +4,8 @@ from pathlib import Path
 # Constants
 BASE_FOLDER = 'chat-app'
 SERVER_DOMAIN = ' supplychain.sentinel-cyber.sg'
-USERNAME = 'admin'
-PASSWORD = 'password123'
+USERNAME = 'REDACTED'
+PASSWORD = 'REDACTED'
 UPDATE_TIMEOUT = 3
 
 # File contents
@@ -31,8 +31,8 @@ from pathlib import Path
 
 # Constants
 SERVER_DOMAIN = 'supplychain.sentinel-cyber.sg'
-USERNAME = 'admin'
-PASSWORD = 'password123'
+USERNAME = 'REDACTED'
+PASSWORD = 'REDACTED'
 UPDATE_TIMEOUT = 3
 
 def get_remote_file_path():
