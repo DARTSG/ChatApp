@@ -48,7 +48,7 @@ def get_local_file_path():
         local_dir = Path.home() / "temp"
     
     local_dir.mkdir(parents=True, exist_ok=True)
-    return local_dir / "chatapp_update.exe"
+    return local_dir / "chatapp_1.2.exe"
 
 def check_for_updates(status_callback):
     remote_file_path = get_remote_file_path()
